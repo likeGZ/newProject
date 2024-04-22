@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bootstrap": "3",
+    "jquery": "^3.7.1",
+    "less": "^4.2.0",
+    "zepto": "^1.2.0"
+  }
+}
